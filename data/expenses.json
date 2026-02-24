@@ -3,10 +3,50 @@
     {
       "id": "uuid-here",
       "category": "food",
-      "amount": 45.50,
+      "amount": 45.5,
       "description": "Groceries",
       "date": "2026-02-24",
       "timestamp": "2026-02-24T10:30:00"
+    },
+    {
+      "id": "b95bcf0d-0d27-4233-b932-0f92a22dbdb9",
+      "category": "food",
+      "amount": 45.5,
+      "description": "groceries",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T19:24:35.644619"
+    },
+    {
+      "id": "bd91d92e-6f98-4c34-a783-d448ed233c00",
+      "category": "transport",
+      "amount": 25.0,
+      "description": "Uber ride",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T19:24:59.351209"
+    },
+    {
+      "id": "12678b30-9776-4619-bdb3-16b41092ca3a",
+      "category": "entertainment",
+      "amount": 12.99,
+      "description": "Netflix subscription",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T19:25:09.193006"
+    },
+    {
+      "id": "0a2809ac-04e9-41d5-8c8a-28a58bc3f68e",
+      "category": "utilities",
+      "amount": 100.0,
+      "description": "electricity bill",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T19:25:30.592469"
+    },
+    {
+      "id": "bddd8fcb-ca6d-4ef7-b3fa-168922d81d99",
+      "category": "food",
+      "amount": 10.0,
+      "description": "unknown",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T19:41:31.752951"
     }
   ]
 }
