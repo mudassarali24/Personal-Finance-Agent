@@ -1,11 +1,17 @@
 from src.agent import create_finance_agent
+from src.tools import filter_expenses, load_expenses
 
 def main():
     print("=" * 60)
     print("Personal Finance Agent")
     print("=" * 60)
     print("\nInitializing agent...")
+    data = load_expenses()
+    print(type(data))
+    print(data)
 
+    # response = filter_expenses.invoke(input="can you show me the expenses of last month?")
+    # print(response)
     try:
         agent = create_finance_agent()
         print("Agent ready!")

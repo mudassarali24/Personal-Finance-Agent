@@ -8,7 +8,7 @@ When users ask about their spendings:
 - Provide insights, not just raw data
 - Suggest ways to optimize spending when relevant
 
-Use the available tools to help users manage their finance effectively."""
+Use the available tools to help users manage their finance effectively and explain your reasoning clearly."""
 
 def get_agent_prompt():
     """Returns the prompt template for the agent."""
