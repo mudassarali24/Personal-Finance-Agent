@@ -1,0 +1,12 @@
+{
+  "expenses": [
+    {
+      "id": "uuid-here",
+      "category": "food",
+      "amount": 45.50,
+      "description": "Groceries",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T10:30:00"
+    }
+  ]
+}

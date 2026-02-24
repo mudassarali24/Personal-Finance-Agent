@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+*.pyc
 .Python
 build/
 develop-eggs/
@@ -193,6 +194,13 @@ cython_debug/
 #   Ignore directories containing user credentials, local state, and settings.
 #   Learn more at https://abstra.io/docs
 .abstra/
+
+
+# Data files (keep personal data private)
+data/*.json
+
+# But keep the directory structure
+!data/.gitkeep
 
 # Visual Studio Code
 #   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
